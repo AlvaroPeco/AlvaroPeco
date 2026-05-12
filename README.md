@@ -34,6 +34,7 @@ Vengo de un perfil técnico sólido tras cursar **SMR** y **DAM**. Actualmente, 
 ## 📊 Estadísticas de GitHub
 
 ![Stats de mi GitHub](https://github-readme-stats.vercel.app/api?username=AlvaroPeco&show_icons=true&theme=tokyonight)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroPeco&layout=compact&theme=tokyonight)
 
 ---
